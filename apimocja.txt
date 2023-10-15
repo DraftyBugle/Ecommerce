@@ -1,0 +1,47 @@
+import React from "react";
+import NavBar from "../Componentes/NavBar";
+import SearchBar from "../Componentes/SearchBar";
+import {GiShoppingBag} from "react-icons/gi"
+import "./Woman.css"
+import Products from "../Componentes/Products";
+
+import { useContext } from "react";
+import { ProductsContext } from "../Context/ProductsContext";
+import { useState,useEffect } from "react";
+const url= " https://apimocha.com/ejproducts//products";
+
+function Woman(){
+   const[products,setProducts]= useState([]);
+   useEffect(()=>{
+    fetch(url)
+    .then(res => res.json())
+    .then(data=> setProducts(data));
+   },[]);
+
+    return(
+        <div>
+             <header className="Container" >
+   
+   <NavBar/>
+
+   <SearchBar/>
+
+   <GiShoppingBag className="shopbag"/>
+  
+</header>
+<main>
+    <div className="CardWoman"> 
+ 
+  
+    </div>
+</main> 
+
+
+{products.map(pr=> <li key={pr.id}> {pr.title} <img src={pr.image} alt="" /> </li> )}
+
+
+        </div>
+    )
+}
+
+export default Woman;

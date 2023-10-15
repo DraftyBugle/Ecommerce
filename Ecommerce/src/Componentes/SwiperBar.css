@@ -1,0 +1,16 @@
+
+.swiper {
+  width: 100%; /* Ancho completo del slider */
+  max-width: 1200px; /* Ancho máximo del slider (ajusta según tus necesidades) */
+  margin: 0 auto; /* Centra el slider en el contenedor */
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  width: 1200px; /* Ancho específico de la imagen (ajusta según tus necesidades) */
+  height: 400px; 
+}

@@ -1,0 +1,266 @@
+[
+ {
+  "id": 1,
+  "title": "Nike Dri-FIT ADV Run Division Techknit Men",
+  "price": 29.95,
+  "Type": "remera",
+  "description": "Ligera y transpirable en todos los lugares adecuados, esta remera Run Division te mantiene la comodidad y la frescura en el camino hacia nuevos récords personales. El running es parte de tu atareado día, por lo que la pensamos para que la uses en cualquier momento. Es perfecta para cuando necesitas salir al pavimento en cualquier momento.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/440100/DQ4778_013_A_PREM.jpg?v=638145712508830000",
+  "rating": {
+   "rate": 5,
+   "count": 120
+  }
+ },
+ {
+  "id": 2,
+  "title": "Jordan Flight MVP Men",
+  "price": 29.95,
+  "Type": "remera",
+  "description": "Máxima transpirabilidad. Esta playera de algodón clásica es relajada y suave, con un logotipo Jumpman grande y de inspiración retro para mantener tu look fresco.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/655115/DV8436_045_A_PREM.jpg?v=638213272434270000",
+  "rating": {
+   "rate": 3.1,
+   "count": 120
+  }
+ },
+ {
+  "id": 3,
+  "title": "NikeLab Men",
+  "price": 60.2,
+  "Type": "pantalon",
+  "description": "Tejido polar de primera calidad y El diseño trasero destaca los pantalones NikeLab. Estos pantalones, que forman parte de la colección Essentials, tienen un tacto suave con un ajuste holgado para usarlos todo el día.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/719361/CW5460_063_A_PREM.jpg?v=638247756843600000",
+  "rating": {
+   "rate": 2.5,
+   "count": 120
+  }
+ },
+ {
+  "id": 4,
+  "title": "Nike Swoosh Men",
+  "price": 70.2,
+  "Type": "pantalon",
+  "description": "Confeccionado con tejido Fleece suave en un ajuste amplio para brindar una comodidad informal, estos joggins Nike Swoosh aportan el estilo audaz Nike a cualquier atuendo. Combínalos con nuestra buzo con capucha sin cierre Nike Swoosh para obtener un look uniforme.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/660116/DX0564_034_A_PREM.jpg?v=638221831223500000",
+  "rating": {
+   "rate": 5,
+   "count": 120
+  }
+ },
+ {
+  "id": 5,
+  "title": "Nike Revolution 6 Next Nature Men",
+  "price": 45.2,
+  "Type": "zapatilla",
+  "description": "Por nuevos desafíos en el pavimento. Ata las agujetas 100% recicladas y marca el ritmo al comienzo de tu experiencia de running con la sensación de suavidad del Nike Revolution 6 Next Nature. Sabemos que la comodidad es la clave de una carrera exitosa, así que nos aseguramos de que tus pasos sean amortiguados y flexibles para brindar una pisada suave. Es una evolución de un favorito, con un diseño transpirable confeccionado con al menos un 20% de contenido reciclado por peso.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/699292/DC3728_003_A_PREM.jpg?v=638229666685500000",
+  "rating": {
+   "rate": 4,
+   "count": 120
+  }
+ },
+ {
+  "id": 6,
+  "title": "Nike  4 Next Nature",
+  "price": 73.2,
+  "Type": "zapatilla",
+  "description": "Rinde homenaje al 25 aniversario de uno de nuestros calzados más rápidos jamás creados con el Superfly 9 Academy XXV. Los colores icónicos de la línea Mercurial complementan los toques históricos de este modelo.",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/685879/FB8398_060_C_PREM.jpg?v=638225195644170000",
+  "rating": {
+   "rate": 6,
+   "count": 120
+  }
+ },
+ {
+  "id": 7,
+  "title": "Nike Sportswear Club Essentials",
+  "price": 16.2,
+  "Type": "remera",
+  "description": "Actualizamos nuestras playeras Club Essentials para darles un ajuste sencillo y un look moderno, perfectos para el uso diario. Con un ajuste un poco más ancho y corto en el cuerpo y un dobladillo ligeramente curvo, esta playera ofrece comodidad y un look actualizado. ",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/762364/DX7902_100_A_PREM.jpg?v=638316089618700000",
+  "rating": {
+   "rate": 2,
+   "count": 120
+  }
+ },
+ {
+  "id": 8,
+  "title": " Jordan",
+  "price": 25,
+  "Type": "remera",
+  "description": "Agrega un poco de Jumpman a tu top cropped favorito de todos los días. La tela de canalé suave se estira mientras te mueves y el diseño minimalista la convierte en un básico versátil del guardarropa. ",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/655253/DX4700_010_A_PREM.jpg?v=638213274946600000",
+  "rating": {
+   "rate": 5,
+   "count": 120
+  }
+ },
+ {
+  "id": 9,
+  "title": " Nike Tempo",
+  "price": 20,
+  "Type": "pantalon",
+  "description": "Increíblemente ligeros, los shorts Nike Tempo te brindan cobertura cómoda mientras corres. La tela suave y el tejido Woven se mueven con cada pisada, lo que absorbe el sudor para que puedas correr con libertad. El bolsillo interior seguro te permite tener a mano una llave o una tarjeta.",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/658070/CU8890_083_A_PREM.jpg?v=638221802370200000",
+  "rating": {
+   "rate": 2,
+   "count": 120
+  }
+ },
+ {
+  "id": 10,
+  "title": " Nike Pro Dri-FIT",
+  "price": 39,
+  "Type": "pantalon",
+  "description": "Las calzas Nike Pro están confeccionados con tecnología absorbente de sudor para mantener la transpirabilidad y la comodidad durante los entrenamientos más intensos. El spandex suave y elástico envuelve el cuerpo para ofrecer una sujeción suave",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/533604/DX0080_010_A_PREM.jpg?v=638161411898530000",
+  "rating": {
+   "rate": 6,
+   "count": 120
+  }
+ },
+ {
+  "id": 11,
+  "title": " Nike Heritage",
+  "price": 30.99,
+  "Type": "mochila",
+  "description": "La mochila Nike Sportswear Heritage, lista para ir al trabajo o a la escuela, actualiza un estilo clásico con opciones de almacenamiento inteligentes para mantener tus dispositivos electrónicos almacenados de forma segura. La manga acolchada interna proporciona un acceso rápido a tu laptop, mientras que los bolsillos delanteros y laterales ayudan a mantener los cables, la calculadora y el teléfono organizados y fáciles de encontrar. Las correas acolchadas para los hombros y el asa fácil de transportar te permiten tomar fácilmente el equipo y salir.",
+  "category": "accesory",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/589044/DB3300_010_B.jpg?v=638170847145000000",
+  "rating": {
+   "rate": 3,
+   "count": 120
+  }
+ },
+ {
+  "id": 12,
+  "title": " Nike Everyday Plus Lightweight",
+  "price": 8,
+  "Type": "media",
+  "description": "Las medias Nike Everyday Plus Lightweight proporcionan comodidad de perfil bajo con una combinación de hilos de micronylon y spandex. El diseño absorbente de sudor es transpirable en la parte superior para mantener los pies frescos y secos.",
+  "category": "accesory",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/211608/SX5277_101_A.jpg?v=638098223950400000",
+  "rating": {
+   "rate": 5,
+   "count": 120
+  }
+ },
+ {
+  "id": 13,
+  "title": " Nike SB Heritage",
+  "price": 22.3,
+  "Type": "rinonera",
+  "description": "REGULABLE Y FUNCIONAL.Mantén tus objetos imprescindibles cerca y seguros con la cangurera Nike SB Heritage. Este diseño sencillo con cierre lleva una correa regulable que te permite elegir la forma de llevarla. Este producto está fabricado con al menos un 65% de tela de poliéster reciclado.",
+  "category": "accesory",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/716759/DD7224_530_A.jpg?v=638237480006000000",
+  "rating": {
+   "rate": 2,
+   "count": 120
+  }
+ },
+ {
+  "id": 14,
+  "title": " Nike Sportswear Heritage86 Futura Washed",
+  "price": 22,
+  "Type": "gorro",
+  "description": "Confeccionada con tela suave, la gorra Nike Sportswear Heritage86 Futura Washed cuenta con un diseño de seis paneles para brindar comodidad clásica y un cierre regulable que ofrece un ajuste personalizado.",
+  "category": "accesory",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/716800/913011_073_A.jpg?v=638237480631530000",
+  "rating": {
+   "rate": 6,
+   "count": 120
+  }
+ },
+ {
+  "id": 15,
+  "title": " Nike Sportswear",
+  "price": 20,
+  "Type": "gorro",
+  "description": "Cuando comience el clima frío, busca la calidez suave de nuestro gorro clásico para aumentar la temperatura. El logotipo del Swoosh en 3D adorna el puño para aportar detalles dimensionales y un acabado impecable.",
+  "category": "accesory",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/717594/DV3342_063_A.jpg?v=638245988686430000",
+  "rating": {
+   "rate": 7,
+   "count": 120
+  }
+ },
+ {
+  "id": 16,
+  "title": " Nike Air Men",
+  "price": 40,
+  "Type": "Buzo",
+  "description": "El buzo con capucha sin cierre Nike Air mejora un basico para usar en capas. El tejido esta cepillado para aportar mayor calidez y suavidad, y cuenta con una combinación de tejido Fleece liso y jaspeado que proporciona un diseño deportivo.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/422917/DM5202_025_A.jpg?v=638143983357000000",
+  "rating": {
+   "rate": 8,
+   "count": 120
+  }
+ }
+,
+ {
+  "id": 17,
+  "title": " NikeLab Men",
+  "price": 57.999,
+  "Type": "Buzo",
+  "description": "Tejido polar de primera calidad y el diseño de la espalda destaca la sudadera con capucha NikeLab. Esta pieza, que forma parte de la colección Essentials, utiliza un tacto suave con un ajuste holgado para usar todo el día.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/719337/CV0552_063_A.jpg?v=638247756415070000",
+  "rating": {
+   "rate": 8,
+   "count": 120
+  }
+ }
+,
+ {
+  "id": 18,
+  "title": " Nike React Infinity 3 Men",
+  "price": 90.99,
+  "Type": "zapatilla",
+  "description": "Mantente de pie con una amortiguación suave y con soporte diseñada para ayudarte a seguir sumando kilómetros. El antepié más ancho y la pila de espuma más alta proporcionan amortiguación para que mantengas la frescura, lo que te brinda tranquilidad al pisar el pavimento todos los días. La elástica capacidad de respuesta también te sorprenderá, agregando un elemento de velocidad pura a uno de nuestros calzados más probados para ayudarte a ir más rápido, más lejos y durante más tiempo que nunca. Para esta versión, actualizamos el diseño de nuestro icónico logotipo y le agregamos colores frescos.",
+  "category": "men's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/660217/DZ3014_002_A_PREM.jpg?v=638221833041200000",
+  "rating": {
+   "rate": 10,
+   "count": 120
+  }
+ }
+,
+ {
+  "id": 19,
+  "title": " Nike Zoom Bella 6",
+  "price": 52.99,
+  "Type": "zapatilla",
+  "description": "Desata tu fuerza y espíritu más profundos con el Nike Zoom Bella 6. Este diseño resiste levantamientos pesados, movimientos explosivos y poses originales postseries mientras presumes tu progreso bien ganado en el gimnasio. La amortiguación Zoom Air recién implementada brinda chispa y el antepié actualizado asegura que todo tipo de pie se pueda flexionar durante los entrenamientos con un estilo auténtico.",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/630074/DR5720_601_A_PREM.jpg?v=638210607280570000",
+  "rating": {
+   "rate": 5,
+   "count": 120
+  }
+ }
+,
+ {
+  "id": 20,
+  "title": " Nike Sportswear City Utility",
+  "price": 77,
+  "Type": "campera",
+  "description": "Sin forro y oversized, esta capa repelente al agua es ideal para tenerla a la mano cuando la lluvia amenaza con humedecer tu día. Cierra los bolsillos frontales con fuelle de la chamarra y úsalos como una cangurera con o sin la chamarra.",
+  "category": "women's clothing",
+  "image": "https://nikearprod.vtexassets.com/arquivos/ids/655107/DV8034_133_A_PREM.jpg?v=638213272278900000",
+  "rating": {
+   "rate": 7,
+   "count": 120
+  }
+ }
+]

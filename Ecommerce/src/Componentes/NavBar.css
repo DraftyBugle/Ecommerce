@@ -1,0 +1,13 @@
+.Nav{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+ column-gap: 30px;
+ padding: 10px;
+ font-size:large;
+}
+.Nav:hover{
+    text-decoration:underline;
+    text-decoration-skip-ink: auto;
+  text-underline-offset: 8px;
+}

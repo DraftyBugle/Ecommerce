@@ -1,0 +1,10 @@
+.Bar{
+    background-color:·#ECEFF1;
+    padding: 6px;
+    border: solid black 2px;
+}
+.search-icon{
+    position: relative;
+    right: 20px;
+    top: 4px;
+}
