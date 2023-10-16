@@ -5,12 +5,11 @@ import {GiShoppingBag} from "react-icons/gi"
 import "./Home.css"
 import SwiperBar from "../Componentes/SwiperBar";
 import SwiperProducts from "../Componentes/SwiperProducts";
+import SearchBarHome from "../Componentes/SearchBarHome";
 
 
 function Home(){
- 
-
-
+  
 
     return(
     <div>
@@ -18,24 +17,22 @@ function Home(){
    
         <NavBar/>
      
-        <SearchBar handleSearch />
+   <SearchBarHome/>
 
         <GiShoppingBag className="shopbag"/>
        
      </header>
      <main>
     <SwiperBar/>
-
-  {/*
-    {products.map((p)=>(
- <Products key={p.id} prod={p}/>
-    ))}
-    */}  <h3 className="FeaturedPro">Featured Products</h3>
+<h3 className="FeaturedPro">Featured Products</h3>
    <SwiperProducts/>
         
      </main>
      <footer>
+
+
     
+
      </footer>
      </div>
        

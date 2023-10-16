@@ -6,13 +6,11 @@ import "./Men.css"
 import Products from "../Componentes/Products";
 import { useContext } from "react";
 import { ProductsContext } from "../Context/ProductsContext";
-import { useState } from "react";
 
 
 function Men(){
    const {products}= useContext(ProductsContext);
    const { searchText, setSearchText } = useContext(ProductsContext);
-  
 
 
     return(
@@ -21,7 +19,7 @@ function Men(){
    
    <NavBar/>
 
-   <SearchBar searchText={setSearchText}/>
+   <SearchBar searchText={setSearchText}  />
 
    <GiShoppingBag className="shopbag"/>
   

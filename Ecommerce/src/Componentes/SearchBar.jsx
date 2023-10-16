@@ -5,12 +5,15 @@ import {AiOutlineSearch} from "react-icons/ai"
 import { ProductsContext } from "../Context/ProductsContext";
 
 const SearchBar = ()=>{
+
+    
     const { searchText, setSearchText } = useContext(ProductsContext);
-   
+    
     const handleSearch =(e)=>{
+   
        
         setSearchText(e.target.value);
-   
+    
      }
     
     
